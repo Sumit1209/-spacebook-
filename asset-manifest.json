@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/-spacebook-/static/css/main.26a72091.css",
+    "main.js": "/-spacebook-/static/js/main.76d7d8b3.js",
+    "static/js/787.dbe6c490.chunk.js": "/-spacebook-/static/js/787.dbe6c490.chunk.js",
+    "index.html": "/-spacebook-/index.html",
+    "main.26a72091.css.map": "/-spacebook-/static/css/main.26a72091.css.map",
+    "main.76d7d8b3.js.map": "/-spacebook-/static/js/main.76d7d8b3.js.map",
+    "787.dbe6c490.chunk.js.map": "/-spacebook-/static/js/787.dbe6c490.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26a72091.css",
+    "static/js/main.76d7d8b3.js"
+  ]
+}
